@@ -1,2 +1,2 @@
 # Ruby
-Ruby練習用
+# Ruby on Rails チュートリアル：サンプルアプリケーション
